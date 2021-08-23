@@ -2,4 +2,7 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is an example 
+```
+This is also an example
+```
