@@ -3,3 +3,6 @@ title: "widepeepoHappy"
 date: 2021-08-23
 ---
 
+The phrase “it’s just a game” is such a weak mindset. You are ok with what happened,
+losing, imperfection of a craft. When you stop getting angry after losing, you’ve lost twice.
+There’s always something to learn, and always room for improvement, never settle.
